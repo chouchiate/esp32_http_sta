@@ -2,7 +2,6 @@
  * tasks_common.h
  *
  *  Created on: Oct 17, 2021
- *      Author: kjagu
  */
 
 #ifndef MAIN_TASKS_COMMON_H_
